@@ -1,6 +1,6 @@
-# The Shed - A Musician's Practice Tool
+# The Shed 
 
-This project serves a place to store your sheet and sort through music, track your practice time, and discover new music!
+This project serves a place to store and sort through your sheet music,
 
 # Features
 
@@ -19,20 +19,27 @@ This project serves a place to store your sheet and sort through music, track yo
 
     - Practice Page
         - View a full page of your music.
-        - Time your practice session 
 
     - Learning Resources Page
         - A list of great resources to learn and enjoy more music!
 
+# Future Goals
+
+     - Spotify API Implementation on the Practice Page
+     - A timer to track practice time
+     - A filter for 'Favorite' pieces of music.
+     - Edit existing sheet music in the app
+     
+
 # To run the website 
 
-After you fork and clone, run these command in order:
+After you fork and clone, run these commands:
 
     npm install
 
-    npm install react-router-dom@6
-
     npm run server
+
+    json-server --watch library.json --port 4000
 
     npm start
 

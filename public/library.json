@@ -8,7 +8,7 @@
       "player": "Jared Smith",
       "difficulty": "Master",
       "instrument": "Electric Bass - 5 String",
-      "url": "public/sheetMusic/archspire-remote_tumour_seeker_bass.pdf"
+      "url": "/sheetMusic/archspire-remote_tumour_seeker_bass.pdf"
     },
     {
       "id": 2,
@@ -49,6 +49,15 @@
       "difficulty": "Intermediate",
       "instrument": "Upright Bass",
       "url": "sheetMusic/GoodbyePorkPieHat.pdf"
+    },
+    {
+      "id": "c03c",
+      "title": "Autumn Leaves",
+      "artist": "Joseph Kosma",
+      "genre": "Jazz",
+      "difficulty": "Intermediate",
+      "instrument": "Guitar",
+      "url": "https://static1.squarespace.com/static/5c521bc675f9ee6bdeea4ce6/t/616ea3614bb9e421e5dc7e5e/1634640760000/Autumn+Leaves+GUITAR.pdf"
     }
   ]
 }
