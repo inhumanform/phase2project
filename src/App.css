@@ -192,7 +192,7 @@ body {
 .searchBlock {
   color: transparent;
   left: 6em;
-
+  font-family: "Tajawal", sans-serif;
   position: absolute;
 }
 
@@ -338,6 +338,26 @@ button {
   background-color: #e27918;
 }
 
+.learning-links {
+  color: whitesmoke;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.learning-links a:hover {
+  color:rgb(255, 123, 0)
+}
+
+#learning-resources h1 {
+  color:#e27918;
+  font-family: "Days One", sans-serif;
+}
+
+#learning-resources h2 {
+  color:#e27918;
+  font-family: "Tajawal", sans-serif;
+  font-weight: 100;
+}
 
 h3 {
   margin: 0;

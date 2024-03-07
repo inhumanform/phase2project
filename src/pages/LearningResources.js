@@ -47,7 +47,7 @@ function LearningResources() {
       {categories.map((category, index) => (
         <div key={index}>
           <h2>{category.name}</h2>
-          <ul>
+          <ul className= "learning-links">
             {category.links.map((link, linkIndex) => (
               <li key={linkIndex}>
                 <a href={link.url} target="_blank" rel="noopener noreferrer">
